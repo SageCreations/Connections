@@ -9,6 +9,7 @@
 /// @DnDVersion : 1
 /// @DnDHash : 35344313
 /// @DnDArgument : "xpos" "926"
+
 /// @DnDArgument : "ypos" "-50"
 /// @DnDArgument : "objectid" "ObjLamp2"
 /// @DnDArgument : "layer" ""Spawn_Layer""
