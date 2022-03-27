@@ -1,8 +1,9 @@
 /// @description Updated code
 // You can write your code in this editor
- move_left = keyboard_check_pressed(ord("A")) || keyboard_check_pressed(vk_left);
- move_right = keyboard_check_pressed(ord("D")) || keyboard_check_pressed(vk_right);
- 
+ move_left = keyboard_check(ord("A")) || keyboard_check(vk_left);
+ move_right = keyboard_check(ord("D")) || keyboard_check(vk_right);
+ move_up = keyboard_check(ord("W")) || keyboard_check(vk_up);
+ move_down = keyboard_check(ord("S")) || keyboard_check(vk_down);
  
  
  // if player is alive, allow this movement code
@@ -10,31 +11,25 @@ if (player_state == states.alive) {
 	 // if right key pressed
 	if (move_right == 1)
 	{
-		 // if current player lane is less than lane 4
-		 if (current_lane < lane.lane_4)
-		 {
-			current_lane += 1;
-		 } 
+		x = x + 4;
 	}
 	
-	 // if left key is pressed
+	// if left key is pressed
 	if (move_left == 1)
 	{
-		// if current player lane is greater than lane 1 
-		if (current_lane > lane.lane_1)
-		{
-			current_lane -= 1;
-		}
+		 x = x - 4;
 	}
 	
-	// assign player x position based on lane x positions
-	switch(current_lane)
+	// if left key is pressed
+	if (move_up == 1)
 	{
-		case lane.lane_1: x = lane_1_x; break;
-		case lane.lane_2: x = lane_2_x; break;
-		case lane.lane_3: x = lane_3_x; break;
-		case lane.lane_4: x = lane_4_x; break;
-		default: x = lane_3_x; break;
+		 y = y - 4;
+	}
+	
+	// if left key is pressed
+	if (move_down == 1)
+	{
+		 y = y + 4;
 	}
 
 } 

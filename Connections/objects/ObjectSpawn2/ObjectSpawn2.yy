@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SprTempLampSpawn",
-    "path": "sprites/SprTempLampSpawn/SprTempLampSpawn.yy",
+    "name": "SprStreetLamp",
+    "path": "sprites/SprStreetLamp/SprStreetLamp.yy",
   },
   "solid": false,
   "visible": true,

@@ -18,9 +18,9 @@ image_index = floor(random_range(0, 2 + 1));
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 77669DA1
-/// @DnDArgument : "speed" "6"
+/// @DnDArgument : "speed" "8"
 /// @DnDArgument : "type" "2"
-vspeed = 6;
+vspeed = 8;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
