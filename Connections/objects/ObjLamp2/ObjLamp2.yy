@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "SprTempLamp2",
+    "path": "sprites/SprTempLamp2/SprTempLamp2.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -19,7 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -28,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ObjManager2",
+  "name": "ObjLamp2",
   "tags": [],
   "resourceType": "GMObject",
 }
