@@ -10,7 +10,7 @@ enum states
 
 invincible = false;
 // player components
-health = 3;
+health = 4;
 score = 0;
 
 player_state = states.alive;

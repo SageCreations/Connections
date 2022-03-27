@@ -44,9 +44,10 @@ else if (player_state == states.paused) {
 }
 
 switch(health) {
-	case 0: playerhud.image_index = 3; room_goto(gameOver) break;
-	case 1: playerhud.image_index = 2; break;
-	case 2: playerhud.image_index = 1; break;
-	case 3: playerhud.image_index = 0; break;
+	case 0: playerhud.image_index = 4; room_goto(gameOver) break;
+	case 1: playerhud.image_index = 3; break;
+	case 2: playerhud.image_index = 2; break;
+	case 3: playerhud.image_index = 1; break;
+	case 4: playerhud.image_index = 0; break;
 
 }
