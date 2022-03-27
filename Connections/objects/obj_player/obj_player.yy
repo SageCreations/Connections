@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Orange_Box64x64",
-    "path": "sprites/Orange_Box64x64/Orange_Box64x64.yy",
+    "name": "_8bit_character_model_PSD",
+    "path": "sprites/_8bit_character_model_PSD/_8bit_character_model_PSD.yy",
   },
   "solid": false,
   "visible": true,
