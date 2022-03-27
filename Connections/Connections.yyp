@@ -11,6 +11,7 @@
     {"id":{"name":"SprTempLamp","path":"sprites/SprTempLamp/SprTempLamp.yy",},"order":4,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"DarkGrey_Box64x64","path":"sprites/DarkGrey_Box64x64/DarkGrey_Box64x64.yy",},"order":1,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
