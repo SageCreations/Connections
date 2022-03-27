@@ -11,3 +11,5 @@ var newX = lerp(curX, xCam, 0.1);
 var newY = lerp(curY, xCam, 0.1);
 
 camera_set_view_pos(view_camera[0],xCam, yCam);
+
+draw_sprite(playerhud, image_index, wCam - 70, hCam - 100);

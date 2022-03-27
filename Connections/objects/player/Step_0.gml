@@ -22,19 +22,3 @@ if health > 3 {
 	health = 3;
 }
 
-if health = 3 {
-	playerhud.image_index = 0;
-}
-
-if health == 2 {
-	playerhud.image_index = 1;
-}
-
-if health == 1 {
-	playerhud.image_index = 2;
-}
-
-if health == 0 {
-	playerhud.image_index = 3;
-	room_goto(gameOver);
-}

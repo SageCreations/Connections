@@ -18,7 +18,7 @@
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},"order":1,},
     {"id":{"name":"obj_gameOverMenu","path":"objects/obj_gameOverMenu/obj_gameOverMenu.yy",},"order":5,},
     {"id":{"name":"spr_gameOver","path":"sprites/spr_gameOver/spr_gameOver.yy",},"order":6,},
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":5,},
+    {"id":{"name":"spr_playerhud","path":"sprites/spr_playerhud/spr_playerhud.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
