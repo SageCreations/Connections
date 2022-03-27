@@ -3,6 +3,7 @@
     {"id":{"name":"SprTempBackground","path":"sprites/SprTempBackground/SprTempBackground.yy",},"order":3,},
     {"id":{"name":"SprTempCombo","path":"sprites/SprTempCombo/SprTempCombo.yy",},"order":6,},
     {"id":{"name":"SprTempPlayer","path":"sprites/SprTempPlayer/SprTempPlayer.yy",},"order":0,},
+    {"id":{"name":"SprCarTemp2","path":"sprites/SprCarTemp2/SprCarTemp2.yy",},"order":13,},
     {"id":{"name":"SprTrashCan","path":"sprites/SprTrashCan/SprTrashCan.yy",},"order":5,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
     {"id":{"name":"_8bit_character_model_PSD","path":"sprites/_8bit_character_model_PSD/_8bit_character_model_PSD.yy",},"order":7,},
