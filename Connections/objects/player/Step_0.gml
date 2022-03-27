@@ -18,7 +18,7 @@ else if keyboard_check(ord("S")) {
 
 
 
-if health > 3 {
-	health = 3;
+if health > 4 {
+	health = 4;
 }
 
