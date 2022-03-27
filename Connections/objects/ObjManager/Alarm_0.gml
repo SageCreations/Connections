@@ -11,18 +11,18 @@
 /// @DnDArgument : "var" "spawn_x"
 /// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "max" "1024"
-var spawn_x = floor(random_range(0, 1024 + 1));
+/// @DnDArgument : "min" "479"
+/// @DnDArgument : "max" "735"
+var spawn_x = floor(random_range(479, 735 + 1));
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 35344313
 /// @DnDArgument : "xpos" "spawn_x"
-/// @DnDArgument : "ypos" "-50"
 /// @DnDArgument : "objectid" "Object2"
 /// @DnDArgument : "layer" ""Spawn_Layer""
 /// @DnDSaveInfo : "objectid" "Object2"
-instance_create_layer(spawn_x, -50, "Spawn_Layer", Object2);
+instance_create_layer(spawn_x, 0, "Spawn_Layer", Object2);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
