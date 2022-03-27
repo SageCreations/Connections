@@ -40,6 +40,7 @@ else if (player_state == states.dead) {
 	// if player is paused, allow code to spawn a pause menu
 else if (player_state == states.paused) {
 	
+
 }
 
 switch(health) {
@@ -47,4 +48,5 @@ switch(health) {
 	case 1: playerhud.image_index = 2; break;
 	case 2: playerhud.image_index = 1; break;
 	case 3: playerhud.image_index = 0; break;
+
 }

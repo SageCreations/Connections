@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SprDumpster2_1",
-    "path": "sprites/SprDumpster2_1/SprDumpster2_1.yy",
+    "name": "SprDumpster2",
+    "path": "sprites/SprDumpster2/SprDumpster2.yy",
   },
   "solid": false,
   "visible": true,

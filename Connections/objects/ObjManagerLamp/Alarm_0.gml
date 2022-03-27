@@ -9,10 +9,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 35344313
 /// @DnDArgument : "xpos" "306"
+/// @DnDArgument : "ypos" "-50"
 /// @DnDArgument : "objectid" "ObjectSpawn2"
 /// @DnDArgument : "layer" ""Spawn_Layer""
 /// @DnDSaveInfo : "objectid" "ObjectSpawn2"
-instance_create_layer(306, 0, "Spawn_Layer", ObjectSpawn2);
+instance_create_layer(306, -50, "Spawn_Layer", ObjectSpawn2);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

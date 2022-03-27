@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SprCarTemp_1",
-    "path": "sprites/SprCarTemp_1/SprCarTemp_1.yy",
+    "name": "SprCarTemp",
+    "path": "sprites/SprCarTemp/SprCarTemp.yy",
   },
   "solid": false,
   "visible": true,
