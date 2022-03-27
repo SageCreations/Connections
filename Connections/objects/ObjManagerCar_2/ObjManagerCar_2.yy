@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ObjManager3_2",
+  "name": "ObjManagerCar_2",
   "tags": [],
   "resourceType": "GMObject",
 }

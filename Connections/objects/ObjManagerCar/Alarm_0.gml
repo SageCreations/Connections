@@ -9,31 +9,31 @@
 /// @DnDVersion : 1
 /// @DnDHash : 19892750
 /// @DnDInput : 2
-/// @DnDArgument : "var" "spawn_x3"
+/// @DnDArgument : "var" "spawn_x2"
 /// @DnDArgument : "var_temp" "1"
-/// @DnDArgument : "option" "832"
-/// @DnDArgument : "option_1" "693"
-var spawn_x3 = choose(832, 693);
+/// @DnDArgument : "option" "540"
+/// @DnDArgument : "option_1" "404"
+var spawn_x2 = choose(540, 404);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 47683EF3
-/// @DnDArgument : "xpos" "spawn_x3"
-/// @DnDArgument : "ypos" "790"
-/// @DnDArgument : "objectid" "ObjCar2"
+/// @DnDHash : 6539BD45
+/// @DnDArgument : "xpos" "spawn_x2"
+/// @DnDArgument : "ypos" "-60"
+/// @DnDArgument : "objectid" "ObjCar"
 /// @DnDArgument : "layer" ""Spawn_big""
-/// @DnDSaveInfo : "objectid" "ObjCar2"
-instance_create_layer(spawn_x3, 790, "Spawn_big", ObjCar2);
+/// @DnDSaveInfo : "objectid" "ObjCar"
+instance_create_layer(spawn_x2, -60, "Spawn_big", ObjCar);
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
-/// @DnDHash : 56AFA4C0
+/// @DnDHash : 39C55D9E
 /// @DnDArgument : "var" "countdown"
 /// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "min" "60"
-/// @DnDArgument : "max" "240"
-var countdown = floor(random_range(60, 240 + 1));
+/// @DnDArgument : "min" "250"
+/// @DnDArgument : "max" "400"
+var countdown = floor(random_range(250, 400 + 1));
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
