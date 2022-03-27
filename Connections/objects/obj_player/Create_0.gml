@@ -25,10 +25,12 @@ enum states
 {
 	alive,
 	dead,
-	paused
+	paused,
+	invincible
 }
 
 // player components
 health = 3;
 score = 0;
-global.player_state = states.alive;
+player_state = states.alive;
+playerhud.image_index = 0;
