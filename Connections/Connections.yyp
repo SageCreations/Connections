@@ -6,6 +6,7 @@
     {"id":{"name":"SprTempCombo","path":"sprites/SprTempCombo/SprTempCombo.yy",},"order":6,},
     {"id":{"name":"SprTempLamp2","path":"sprites/SprTempLamp2/SprTempLamp2.yy",},"order":11,},
     {"id":{"name":"SprTempPlayer","path":"sprites/SprTempPlayer/SprTempPlayer.yy",},"order":0,},
+    {"id":{"name":"SprCarTemp2","path":"sprites/SprCarTemp2/SprCarTemp2.yy",},"order":13,},
     {"id":{"name":"SprTrashCan","path":"sprites/SprTrashCan/SprTrashCan.yy",},"order":5,},
     {"id":{"name":"road_texture","path":"sprites/road_texture/road_texture.yy",},"order":12,},
     {"id":{"name":"ObjLamp2","path":"objects/ObjLamp2/ObjLamp2.yy",},"order":8,},
