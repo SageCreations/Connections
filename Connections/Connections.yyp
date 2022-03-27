@@ -3,7 +3,7 @@
     {"id":{"name":"Orange_Box64x64","path":"sprites/Orange_Box64x64/Orange_Box64x64.yy",},"order":0,},
     {"id":{"name":"LightGrey_Box64x64","path":"sprites/LightGrey_Box64x64/LightGrey_Box64x64.yy",},"order":2,},
     {"id":{"name":"DarkGrey_Box64x64","path":"sprites/DarkGrey_Box64x64/DarkGrey_Box64x64.yy",},"order":1,},
-    {"id":{"name":"_sage_object","path":"objects/_sage_object/_sage_object.yy",},"order":0,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
