@@ -21,6 +21,7 @@
     {"id":{"name":"SprCarTemp","path":"sprites/SprCarTemp/SprCarTemp.yy",},"order":10,},
     {"id":{"name":"SprTempLampSpawn","path":"sprites/SprTempLampSpawn/SprTempLampSpawn.yy",},"order":9,},
     {"id":{"name":"ObjManagerLamp","path":"objects/ObjManagerLamp/ObjManagerLamp.yy",},"order":3,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":11,},
     {"id":{"name":"SprTempRoad","path":"sprites/SprTempRoad/SprTempRoad.yy",},"order":8,},
     {"id":{"name":"ObjectSpawn2","path":"objects/ObjectSpawn2/ObjectSpawn2.yy",},"order":4,},
     {"id":{"name":"DarkGrey_Box64x64","path":"sprites/DarkGrey_Box64x64/DarkGrey_Box64x64.yy",},"order":1,},

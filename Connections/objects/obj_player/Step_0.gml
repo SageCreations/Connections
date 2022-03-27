@@ -14,7 +14,7 @@ if (global.player_state == states.alive) {
 		 if (current_lane < lane.lane_4)
 		 {
 			current_lane += 1;
-		 }
+		 } 
 	}
 	
 	 // if left key is pressed
