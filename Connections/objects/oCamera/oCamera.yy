@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_gameOver",
-    "path": "sprites/spr_gameOver/spr_gameOver.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_gameOverMenu",
+  "name": "oCamera",
   "tags": [],
   "resourceType": "GMObject",
 }

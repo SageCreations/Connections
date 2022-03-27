@@ -4,6 +4,7 @@
     {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},"order":2,},
     {"id":{"name":"gameOver","path":"rooms/gameOver/gameOver.yy",},"order":3,},
     {"id":{"name":"mainMenu","path":"objects/mainMenu/mainMenu.yy",},"order":1,},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":6,},
     {"id":{"name":"collision","path":"objects/collision/collision.yy",},"order":2,},
     {"id":{"name":"LightGrey_Box64x64","path":"sprites/LightGrey_Box64x64/LightGrey_Box64x64.yy",},"order":2,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
