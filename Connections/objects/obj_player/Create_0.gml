@@ -14,10 +14,10 @@ enum lane
 current_lane = lane.lane_3
 
 // lane X positions
-lane_1_x = 404;
-lane_2_x = 540;
-lane_3_x = 693;
-lane_4_x = 832;
+lane_1_x = 352;
+lane_2_x = 480;
+lane_3_x = 640;
+lane_4_x = 768;
 
 
 //player states
@@ -32,5 +32,3 @@ enum states
 health = 3;
 score = 0;
 global.player_state = states.alive;
-
-
