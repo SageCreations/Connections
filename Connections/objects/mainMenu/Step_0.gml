@@ -2,10 +2,10 @@
 // You can write your code in this editor
 var up, down, accept, back;
 
-up	= keyboard_check_pressed(ord("W"));
-down   = keyboard_check_pressed(ord("S"));
-accept = keyboard_check_pressed(ord("F"));
-back   = keyboard_check_pressed(ord("G"));
+up	= keyboard_check_pressed(ord("W")) || keyboard_check_pressed(vk_up);
+down   = keyboard_check_pressed(ord("S")) || keyboard_check_pressed(vk_down);
+accept = keyboard_check_pressed(vk_enter) || keyboard_check_pressed(vk_space);
+back   = keyboard_check_pressed(vk_backspace) || keyboard_check_pressed(vk_escape);
 
 if (up and image_index > 0) {
 	image_index--;
@@ -16,10 +16,13 @@ if (down and image_index < 2) {
 }
 
 if image_index == 0 and accept {
+
 	room_goto(Explanation);
+
 }
 
 if image_index == 1 and accept {
+	audio_stop_sound(aud_titlescreen);
 	room_goto(Credits);
 }
 
