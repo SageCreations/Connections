@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ObjBuildings",
+    "path": "folders/Objects/ObjBuildings.yy",
   },
   "resourceVersion": "1.0",
   "name": "ObjBuilding2",

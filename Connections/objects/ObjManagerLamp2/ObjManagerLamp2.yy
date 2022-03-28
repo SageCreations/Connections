@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ObjManagers",
+    "path": "folders/Objects/ObjManagers.yy",
   },
   "resourceVersion": "1.0",
   "name": "ObjManagerLamp2",
