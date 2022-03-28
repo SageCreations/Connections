@@ -11,31 +11,23 @@
     {"id":{"name":"spr_gameOver_1","path":"sprites/spr_gameOver_1/spr_gameOver_1.yy",},"order":35,},
     {"id":{"name":"SprTempLamp2","path":"sprites/SprTempLamp2/SprTempLamp2.yy",},"order":11,},
     {"id":{"name":"SprTempPlayer","path":"sprites/SprTempPlayer/SprTempPlayer.yy",},"order":0,},
-
     {"id":{"name":"ObjManagerBuilding3","path":"objects/ObjManagerBuilding3/ObjManagerBuilding3.yy",},"order":3,},
     {"id":{"name":"walkman_step_1","path":"sprites/walkman_step_1/walkman_step_1.yy",},"order":1,},
-
+    {"id":{"name":"Character_walk_3","path":"sprites/Character_walk_3/Character_walk_3.yy",},"order":3,},
     {"id":{"name":"SprBuilding2","path":"sprites/SprBuilding2/SprBuilding2.yy",},"order":20,},
     {"id":{"name":"SprBuilding3","path":"sprites/SprBuilding3/SprBuilding3.yy",},"order":21,},
     {"id":{"name":"sprCreditsTitle","path":"sprites/sprCreditsTitle/sprCreditsTitle.yy",},"order":46,},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},"order":47,},
     {"id":{"name":"SprCarTemp2","path":"sprites/SprCarTemp2/SprCarTemp2.yy",},"order":13,},
-
     {"id":{"name":"ObjManagerBuilding2","path":"objects/ObjManagerBuilding2/ObjManagerBuilding2.yy",},"order":2,},
-    {"id":{"name":"SprTrashCan","path":"sprites/SprTrashCan/SprTrashCan.yy",},"order":5,},
+    {"id":{"name":"SprTrashCan","path":"sprites/SprTrashCan/SprTrashCan.yy",},"order":49,},
+    {"id":{"name":"spr_player_up","path":"sprites/spr_player_up/spr_player_up.yy",},"order":6,},
     {"id":{"name":"ObjDumpster","path":"objects/ObjDumpster/ObjDumpster.yy",},"order":14,},
     {"id":{"name":"SprBuilding1","path":"sprites/SprBuilding1/SprBuilding1.yy",},"order":18,},
     {"id":{"name":"SprGrass","path":"sprites/SprGrass/SprGrass.yy",},"order":19,},
     {"id":{"name":"ObjManagerBuilding4","path":"objects/ObjManagerBuilding4/ObjManagerBuilding4.yy",},"order":4,},
-
-    
     {"id":{"name":"SprTrashCan1","path":"sprites/SprTrashCan1/SprTrashCan1.yy",},"order":5,},
-   
-    
-    
     {"id":{"name":"aud_titlescreen","path":"sounds/aud_titlescreen/aud_titlescreen.yy",},"order":0,},
-    
-
     {"id":{"name":"road_texture","path":"sprites/road_texture/road_texture.yy",},"order":12,},
     {"id":{"name":"creditsTitle","path":"objects/creditsTitle/creditsTitle.yy",},"order":24,},
     {"id":{"name":"SprBuilding4","path":"sprites/SprBuilding4/SprBuilding4.yy",},"order":22,},
@@ -48,13 +40,12 @@
     {"id":{"name":"SprStreetLamp","path":"sprites/SprStreetLamp/SprStreetLamp.yy",},"order":17,},
     {"id":{"name":"ObjCar2","path":"objects/ObjCar2/ObjCar2.yy",},"order":9,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
-
     {"id":{"name":"ObjBuilding2","path":"objects/ObjBuilding2/ObjBuilding2.yy",},"order":1,},
-
     {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},"order":6,},
-    
+    {"id":{"name":"Character_walk_6","path":"sprites/Character_walk_6/Character_walk_6.yy",},"order":0,},
+    {"id":{"name":"Character_walk_2","path":"sprites/Character_walk_2/Character_walk_2.yy",},"order":2,},
+    {"id":{"name":"Character_walk_1","path":"sprites/Character_walk_1/Character_walk_1.yy",},"order":1,},
     {"id":{"name":"aud_death","path":"sounds/aud_death/aud_death.yy",},"order":3,},
-
     {"id":{"name":"Sprite12_1","path":"sprites/Sprite12_1/Sprite12_1.yy",},"order":16,},
     {"id":{"name":"Fnt_Score","path":"fonts/Fnt_Score/Fnt_Score.yy",},"order":0,},
     {"id":{"name":"playerhud","path":"objects/playerhud/playerhud.yy",},"order":22,},
@@ -62,6 +53,7 @@
     {"id":{"name":"_8bit_character_model_PSD","path":"sprites/_8bit_character_model_PSD/_8bit_character_model_PSD.yy",},"order":7,},
     {"id":{"name":"creditsText","path":"objects/creditsText/creditsText.yy",},"order":25,},
     {"id":{"name":"spr_Player_right","path":"sprites/spr_Player_right/spr_Player_right.yy",},"order":0,},
+    {"id":{"name":"Character_walk_4","path":"sprites/Character_walk_4/Character_walk_4.yy",},"order":4,},
     {"id":{"name":"creditsMenu","path":"sprites/creditsMenu/creditsMenu.yy",},"order":48,},
     {"id":{"name":"mainMenu","path":"objects/mainMenu/mainMenu.yy",},"order":21,},
     {"id":{"name":"hud25red","path":"sprites/hud25red/hud25red.yy",},"order":40,},
@@ -70,18 +62,15 @@
     {"id":{"name":"SprCarTemp_1","path":"sprites/SprCarTemp_1/SprCarTemp_1.yy",},"order":20,},
     {"id":{"name":"aud_main_soundtrack","path":"sounds/aud_main_soundtrack/aud_main_soundtrack.yy",},"order":1,},
     {"id":{"name":"spr_gameOver","path":"sprites/spr_gameOver/spr_gameOver.yy",},"order":17,},
-
     {"id":{"name":"ObjManagerCar","path":"objects/ObjManagerCar/ObjManagerCar.yy",},"order":5,},
-
-
     {"id":{"name":"walkman_step_5","path":"sprites/walkman_step_5/walkman_step_5.yy",},"order":5,},
-
     {"id":{"name":"LightGrey_Box64x64","path":"sprites/LightGrey_Box64x64/LightGrey_Box64x64.yy",},"order":2,},
     {"id":{"name":"oRestart","path":"objects/oRestart/oRestart.yy",},"order":20,},
     {"id":{"name":"hudfull","path":"sprites/hudfull/hudfull.yy",},"order":43,},
     {"id":{"name":"ObjManagerCar_2","path":"objects/ObjManagerCar_2/ObjManagerCar_2.yy",},"order":6,},
     {"id":{"name":"ObjManager2","path":"objects/ObjManager2/ObjManager2.yy",},"order":11,},
     {"id":{"name":"SprTempLamp","path":"sprites/SprTempLamp/SprTempLamp.yy",},"order":4,},
+    {"id":{"name":"Character_walk_5","path":"sprites/Character_walk_5/Character_walk_5.yy",},"order":5,},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":26,},
     {"id":{"name":"SprDumpster","path":"sprites/SprDumpster/SprDumpster.yy",},"order":15,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
@@ -98,11 +87,8 @@
     {"id":{"name":"walkman_step_2","path":"sprites/walkman_step_2/walkman_step_2.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":11,},
     {"id":{"name":"SprDumpster2","path":"sprites/SprDumpster2/SprDumpster2.yy",},"order":16,},
-
     {"id":{"name":"Spr_TrashCan","path":"sprites/Spr_TrashCan/Spr_TrashCan.yy",},"order":45,},
-
     {"id":{"name":"Walkman_step_3","path":"sprites/Walkman_step_3/Walkman_step_3.yy",},"order":3,},
-
     {"id":{"name":"obj_gameOverMenu","path":"objects/obj_gameOverMenu/obj_gameOverMenu.yy",},"order":19,},
     {"id":{"name":"SprTempRoad","path":"sprites/SprTempRoad/SprTempRoad.yy",},"order":8,},
     {"id":{"name":"ObjectSpawn2","path":"objects/ObjectSpawn2/ObjectSpawn2.yy",},"order":4,},
@@ -110,12 +96,7 @@
     {"id":{"name":"DarkGrey_Box64x64","path":"sprites/DarkGrey_Box64x64/DarkGrey_Box64x64.yy",},"order":1,},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},"order":5,},
     {"id":{"name":"ObjDumpster2","path":"objects/ObjDumpster2/ObjDumpster2.yy",},"order":15,},
-
     {"id":{"name":"ObjManagerLamp2","path":"objects/ObjManagerLamp2/ObjManagerLamp2.yy",},"order":10,},
-
-
-    {"id":{"name":"SprTrashCan","path":"sprites/SprTrashCan/SprTrashCan.yy",},"order":49,},
-
     {"id":{"name":"spr_phone","path":"sprites/spr_phone/spr_phone.yy",},"order":44,},
     {"id":{"name":"LightGrey_Box64x64_1","path":"sprites/LightGrey_Box64x64_1/LightGrey_Box64x64_1.yy",},"order":34,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -156,10 +137,9 @@
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/ObjManagers.yy","order":24,"resourceVersion":"1.0","name":"ObjManagers","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/ObjBuildings.yy","order":25,"resourceVersion":"1.0","name":"ObjBuildings","tags":[],"resourceType":"GMFolder",},
-
     {"folderPath":"folders/Sprites/Player.yy","order":45,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Player/player_right.yy","order":7,"resourceVersion":"1.0","name":"player_right","tags":[],"resourceType":"GMFolder",},
-
+    {"folderPath":"folders/Sprites/Player/player_up.yy","order":8,"resourceVersion":"1.0","name":"player_up","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
