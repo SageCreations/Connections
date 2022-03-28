@@ -16,8 +16,9 @@ if (down and image_index < 2) {
 }
 
 if image_index == 0 and accept {
-	audio_stop_sound(aud_titlescreen);
-	room_goto(Room1);
+
+	room_goto(Explanation);
+
 }
 
 if image_index == 1 and accept {
