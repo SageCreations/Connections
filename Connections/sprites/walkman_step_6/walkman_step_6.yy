@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/Player.yy",
+    "name": "player_right",
+    "path": "folders/Sprites/Player/player_right.yy",
   },
   "resourceVersion": "1.0",
   "name": "walkman_step_6",
