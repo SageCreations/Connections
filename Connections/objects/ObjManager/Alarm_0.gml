@@ -11,6 +11,7 @@
 /// @DnDArgument : "var" "spawn_x"
 /// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "type" "1"
+
 /// @DnDArgument : "min" "261"
 /// @DnDArgument : "max" "971"
 var spawn_x = floor(random_range(261, 971 + 1));
@@ -19,6 +20,7 @@ var spawn_x = floor(random_range(261, 971 + 1));
 /// @DnDVersion : 1
 /// @DnDHash : 35344313
 /// @DnDArgument : "xpos" "spawn_x"
+
 /// @DnDArgument : "ypos" "-20"
 /// @DnDArgument : "objectid" "Object2"
 /// @DnDArgument : "layer" ""Spawn_Layer""
