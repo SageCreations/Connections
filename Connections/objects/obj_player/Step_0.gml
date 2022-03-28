@@ -12,24 +12,28 @@ if (player_state == states.alive) {
 	if (move_right == 1)
 	{
 		x = x + 4;
+		
 	}
 	
 	// if left key is pressed
 	if (move_left == 1)
 	{
 		 x = x - 4;
+		 
 	}
 	
 	// if left key is pressed
 	if (move_up == 1)
 	{
 		 y = y - 4;
+		 
 	}
 	
 	// if left key is pressed
 	if (move_down == 1)
 	{
 		 y = y + 4;
+		 
 	}
 
 } 

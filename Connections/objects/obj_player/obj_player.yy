@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "_8bit_character_model_PSD",
-    "path": "sprites/_8bit_character_model_PSD/_8bit_character_model_PSD.yy",
+    "name": "spr_Player",
+    "path": "sprites/spr_Player/spr_Player.yy",
   },
   "solid": false,
   "visible": true,
