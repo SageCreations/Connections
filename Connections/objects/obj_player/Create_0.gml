@@ -16,3 +16,5 @@ score = 0;
 player_state = states.alive;
 playerhud.image_index = 0;
 
+audio_play_sound(aud_main_soundtrack, 1000, true);
+
