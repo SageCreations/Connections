@@ -17,10 +17,13 @@ if health == 2 {
 }
 
 if health == 1 {
-	draw_sprite(hud25, image_index, oCamera.x +700, oCamera.y + 480);
+		do {
+		draw_sprite(hud25, image_index, oCamera.x +700, oCamera.y + 480);
+		draw_sprite(hud25red, image_index, oCamera.x +700, oCamera.y + 480);
+		} until (health != 1)
+
 }
 
 if health == 0 {
-	draw_sprite(hud25red, image_index, oCamera.x +700, oCamera.y + 480);
 	room_goto(gameOver);
 }
