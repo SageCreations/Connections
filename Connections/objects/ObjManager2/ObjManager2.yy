@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "SprBuilding3",
-    "path": "sprites/SprBuilding3/SprBuilding3.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -22,16 +19,16 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjBuildings",
-    "path": "folders/Objects/ObjBuildings.yy",
+    "name": "ObjManagers",
+    "path": "folders/Objects/ObjManagers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ObjBuilding3",
+  "name": "ObjManager2",
   "tags": [],
   "resourceType": "GMObject",
 }

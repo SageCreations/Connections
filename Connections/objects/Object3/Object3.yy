@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SprBuilding3",
-    "path": "sprites/SprBuilding3/SprBuilding3.yy",
+    "name": "Spr_TrashCan",
+    "path": "sprites/Spr_TrashCan/Spr_TrashCan.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjBuildings",
-    "path": "folders/Objects/ObjBuildings.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ObjBuilding3",
+  "name": "Object3",
   "tags": [],
   "resourceType": "GMObject",
 }
