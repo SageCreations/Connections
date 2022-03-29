@@ -9,6 +9,7 @@ enum states
 }
 
 invincible = false;
+audioTrig = false;
 // player components
 health = 4;
 score = 0;

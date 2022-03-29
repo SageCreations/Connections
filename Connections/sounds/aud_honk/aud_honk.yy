@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.24,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_death.wav",
-  "duration": 22.2222214,
+  "soundFile": "aud_honk.wav",
+  "duration": 0.871604,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "aud_death",
+  "name": "aud_honk",
   "tags": [],
   "resourceType": "GMSound",
 }

@@ -3,6 +3,7 @@
 if (health != 0) {
 	player_state = states.alive;
 	invincible = false;
+	audioTrig = false;
 } else {
 	player_state = states.dead;	
 	invincible = false;

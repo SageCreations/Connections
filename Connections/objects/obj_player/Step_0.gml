@@ -11,15 +11,19 @@ if (player_state == states.alive) {
 	 // if right key pressed
 	if (move_right == 1)
 	{
-		x = x + 4;
-		
+		if x < 865
+		{
+			x = x + 4;
+		}
 	}
 	
 	// if left key is pressed
 	if (move_left == 1)
 	{
-		 x = x - 4;
-		 
+		if x > 233
+		{
+			x = x - 4;
+		}
 	}
 	
 	// if left key is pressed
@@ -54,4 +58,34 @@ switch(health) {
 	case 3: playerhud.image_index = 1; break;
 	case 4: playerhud.image_index = 0; break;
 
+}
+
+if y <= 0
+{
+		if (invincible == false) {
+		invincible = true;
+		health -= 1;
+		alarm[1] = game_get_speed(gamespeed_fps);
+		if audioTrig = false
+				{
+					audio_play_sound(aud_slap, 1, false);
+					audioTrig = true;
+				}
+	}
+}
+
+if y >= 768
+{
+		if (invincible == false) 
+		{
+			invincible = true;
+			health -= 1;
+			alarm[1] = game_get_speed(gamespeed_fps);
+			
+			if audioTrig = false
+				{
+					audio_play_sound(aud_slap, 1, false);
+					audioTrig = true;
+				}
+		}
 }
